@@ -1,3 +1,4 @@
+![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3933383137353639393332363438343439302f3934383236333433353431323539383836342f756e6b6e6f776e5f322e706e67 (1)](https://github.com/github/docs/assets/154102459/33ffe360-6f67-47bf-8c54-a23dd8ea095f)
 ---
 title: Exporting member information for your organization
 intro: "You can export information about all of your organization's members from {% data variables.product.prodname_dotcom %}'s web UI."
